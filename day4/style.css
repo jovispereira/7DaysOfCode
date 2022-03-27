@@ -1,0 +1,13 @@
+body {
+    background-color: deeppink;
+}
+
+#resultado {
+    height: 90vh;
+    font-size: 48px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

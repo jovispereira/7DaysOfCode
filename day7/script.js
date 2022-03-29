@@ -1,4 +1,3 @@
-//sair = mostrar na tela todas as operações realizadas e o resultado
 function iniciar() {
 	var nome = prompt("Digite seu nome: ")
 	alert("Olá " + nome + ", bem-vindo(a) a calculadora. Você pode somar, subtrair, multiplicar e/ou dividir qualquer número por aqui.")
